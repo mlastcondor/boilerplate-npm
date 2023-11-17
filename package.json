@@ -1,6 +1,6 @@
 {
-	"author": "Nitra Salt",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Nitra Salt",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
